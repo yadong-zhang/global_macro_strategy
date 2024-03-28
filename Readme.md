@@ -1,18 +1,19 @@
+# Quantitative Global Macro Strategies for Diversified Returns
 
-#code:
+#### code:
 	main.ipynb: main code
 	pnl_statistics.py : function used for pnl analysis 
 
-#results:
+#### results:
 	cumulative return graph 
 	return distribution graph 
 	df_pnl_analysis.csv: pnl of ETFs analysis statistics
 	sp500_pnl_stat.csv :pnl of sp500 analysis statistics 
 
-#optimaldata
+#### optimaldata
 	daily return for each strategy 
 
-#data:
+#### data:
 	Asset_Price : ETFs daily price
 	date : first trade day for each week 
 	FFM1.csv : Fama French 3 Factors 
